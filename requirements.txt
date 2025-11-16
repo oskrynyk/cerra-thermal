@@ -1,0 +1,25 @@
+# Core scientific libraries
+numpy
+xarray
+netCDF4
+scipy
+
+# Climate and weather libraries
+xclim
+thermofeel
+cartopy
+
+# Geospatial libraries
+geopandas
+rioxarray
+rasterio
+shapely
+
+# Plotting
+matplotlib
+cmocean
+
+# Performance and parallelization
+dask
+distributed
+numba
